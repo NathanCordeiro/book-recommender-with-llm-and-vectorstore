@@ -71,7 +71,7 @@ index                # Contains embedded strings
 1. Install required libraries:
 
 ```bash
-pip install pandas sentence-transformers faiss-cpu
+pip install pandas sentence-transformers faiss-cpu numpy requests
 ```
 
 2. Open `main.ipynb` in Jupyter Notebook.
@@ -84,7 +84,7 @@ pip install pandas sentence-transformers faiss-cpu
 
 > [!NOTE]
 >
-> I am using faiss-cpu but if you have a GPU install faiss-gpu
+> I am using `faiss-cpu` but if you have a *GPU* install `faiss-gpu`
 >
 > The `index` embeddings file is not fully complete
 >
