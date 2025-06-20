@@ -88,7 +88,9 @@ pip install pandas sentence-transformers faiss-cpu numpy requests
 >
 > The `index` embeddings file is not fully complete
 >
-> If you want the entire dataset to be embedded it will take a while  
+> If you want the entire dataset to be embedded it will take a while
+>
+> I am using ollama llama2 model but you can use any LLM to get the vector embeddings
 
 ## 🧠 FAQ & Real-World Considerations
 
